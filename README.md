@@ -3,6 +3,7 @@
 This project focuses on analyzing and visualizing social media advertising campaign data using Power BI.
 The dashboard helps marketers and decision-makers evaluate campaign effectiveness, audience engagement, and return on investment (ROI) to improve future ad strategies.
 
+---
 ## 🎯 Project Objective
 
 The goal of this project is to:
