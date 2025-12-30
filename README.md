@@ -60,15 +60,15 @@ Tooltips with additional KPI insights
 
 ## 🔍 Key Insights
 
-Ads targeting ages 45–49 show the highest engagement (CTR), followed by 40–44
+Age group 45–49 delivers the highest CTR, making it the most engaging audience
 
-Campaign performance varies significantly based on audience interest
+Total ad spend is high, but ROI is negative, indicating inefficient budget utilization
 
-Higher ad spend does not always guarantee higher ROI
+Male-targeted campaigns generate significantly more clicks and spend than female
+
+Interest-based segmentation greatly influences ROI and conversions
 
 Optimized spend and targeted audiences lead to better conversion efficiency
-
-Gender-wise analysis helps identify engagement differences across campaigns
 
 ---
 
