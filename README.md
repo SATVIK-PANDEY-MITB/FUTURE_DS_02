@@ -4,7 +4,7 @@ This project focuses on analyzing and visualizing social media advertising campa
 The dashboard helps marketers and decision-makers evaluate campaign effectiveness, audience engagement, and return on investment (ROI) to improve future ad strategies.
 
 ---
-## 🎯 Project Objective
+## 🎯 Project Objectives
 
 The goal of this project is to:
 
