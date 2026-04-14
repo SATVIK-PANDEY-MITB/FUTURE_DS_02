@@ -99,8 +99,3 @@ Explore interactive visuals and insights
 This project demonstrates how marketing analytics and data visualization can be used to track ad campaign performance effectively.
 The dashboard converts raw campaign data into actionable insights, helping businesses make data-driven marketing decisions.
 
----
-
-## 👤 Author
-
-Satvik Pandey
